@@ -3106,6 +3106,9 @@ span.is-active:after {
 
 .game-card__action {
     width: 30%;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;    
 }
 
 @media (max-width: 575px) {
@@ -3113,6 +3116,7 @@ span.is-active:after {
         width: 100%;
         text-align: center;
         margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 
